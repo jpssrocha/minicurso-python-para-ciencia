@@ -5,6 +5,6 @@ tour geral do Python e os pacotes científicos mais importantes.
 
 OBS: O planejamento inicial não pôde ser seguido e o material de pandas ficou para o dia 5.
 
-![Poster](organizacao/poster.png)
+![Poster](organizacao/poster_c.png)
 
 
